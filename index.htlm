@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+<title>AXETROCORP	</title>
+<style> 
+body {
+    background-color: black;
+}
+</style>
+</head>
+<body>
+
+	<header>
+<center><h1 style="font-size:36pt; color:mediumslateblue;  ">AXETROCORP</h1></center>
+<style type="<b>"></style>
+
+<center><img  style="font-size: 10pt; "src="moon-1527501__340 (1).jpg"> </center>
+
+<center>
+    <h1 style="font-size : 20pt; color: mediumslateblue;">Bienvenue sur mon site!</h1>
+</center></header>
+<div>
+<center>
+<form name="x" action="Terre.htlm" method="post">
+<input type="submit" value="Terre" style="font-size : 25pt" id="submit"></form>
+
+<form name="z" action="Tchat.htlm" method="post">
+<input type="submit" value="Tchat" style="font-size : 25pt" id="submit2"></form>
+
+</center>
+</div>
+ 
+
+
+
+</body>
+<center> 
+<footer>
+    <nav>
+    <ul>
+     <li><a href="https://www.instagram.com/tygan72/?hl=fr">instagrame</a></li>          
+     </li>
+</ul>
+</nav>
+</footer> </center>
+
+</html>
